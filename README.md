@@ -1,4 +1,4 @@
-# Speed_Detector
+# Speed estimation using Arduino
 A simple Car Speed Detector circuit using Arduino UNO and IR Sensors.
 
 I have used two reflective type IR Sensors and placed them 10cm apart.
@@ -9,4 +9,4 @@ By simulating the distance between the two sensors to be 5 meters, you can calcu
 
 All the calculations and data gathering are done by Arduino and the final result is displayed on a 16X2 LCD Module.
 
-Circuit: (coming soon)
+Circuit diagram as shown
